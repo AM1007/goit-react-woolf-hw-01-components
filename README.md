@@ -1,12 +1,11 @@
 ## Подготовка к работе
 
-1. Убедись что на компьютере установлена LTS-версия Node.js.
-   [Скачай и установи](https://nodejs.org/en/) её если необходимо.
-2. Установи базовые зависимости проекта командой `npm install`.
-3. Запусти режим разработки, выполнив команду `npm start`.
-4. Перейди в браузере по адресу [http://localhost:3000](http://localhost:3000).
-   Эта страница будет автоматически перезагружаться после сохранения изменений в
-   файлах проекта.
+1. Make sure that the LTS version of Node.js is installed on the computer.
+   [Download and install](https://nodejs.org/en/) if necessary.
+2. Install the project's basic dependencies using the `npm install` command.
+3. Start the development mode, execute the `npm start` command.
+4. Go to [http://localhost:3000](http://localhost:3000) in the browser. This
+   page will automatically reload after saving the changes project files.
 
 ---
 
@@ -17,7 +16,7 @@ information about a user on a social network. The user data is stored in the
 [`user.json`](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fgoitacademy%2Freact-homework%2Fblob%2Fmaster%2Fhomework-01%2Fsocial-profile%2Fuser.json)
 file.
 
-![[https://textbook.edu.goit.global/lms-react-woolf-homework/uk/img/hw-01/social-profile.png]]
+https://textbook.edu.goit.global/lms-react-woolf-homework/uk/img/hw-01/social-profile.png
 
 ##### Description of the `<Profile>` component
 
@@ -144,7 +143,7 @@ information about the user's friends. Information about friends is stored in the
 [`friends.json`](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fgoitacademy%2Freact-homework%2Fblob%2Fmaster%2Fhomework-01%2Ffriend-list%2Ffriends.json)
 file.
 
-![[https://textbook.edu.goit.global/lms-react-woolf-homework/uk/img/hw-01/friend-list.jpg]]
+https://textbook.edu.goit.global/lms-react-woolf-homework/uk/img/hw-01/friend-list.jpg
 
 ##### Description of the `<FriendList>` component
 
