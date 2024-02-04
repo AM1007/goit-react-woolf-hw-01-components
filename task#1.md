@@ -51,7 +51,7 @@ The component must create a DOM element of the following structure.
 
 ##### Example of use
 
-```jsx
+```js
 import user from 'path/to/user.json;
 
 <Profile

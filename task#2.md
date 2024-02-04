@@ -48,7 +48,7 @@ The component must create a DOM element of the following structure.
 
 ##### Example of use
 
-```jsx
+```js
 import data from '/path/to/data.json';
 
 <Statistics title="Upload stats" stats={data} />

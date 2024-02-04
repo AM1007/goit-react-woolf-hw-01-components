@@ -42,7 +42,7 @@ The component should create a DOM of the following structure.
 
 ##### Example of use
 
-```jsx
+```js
 import friends from 'path/to/friends.json';
 
 <FriendList friends={friends} />;
