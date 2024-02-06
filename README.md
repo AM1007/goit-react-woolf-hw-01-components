@@ -1,4 +1,4 @@
-## Подготовка к работе
+## Preparing for work
 
 1. Make sure that the LTS version of Node.js is installed on the computer.
    [Download and install](https://nodejs.org/en/) if necessary.

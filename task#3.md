@@ -5,7 +5,7 @@ information about the user's friends. Information about friends is stored in the
 [`friends.json`](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fgoitacademy%2Freact-homework%2Fblob%2Fmaster%2Fhomework-01%2Ffriend-list%2Ffriends.json)
 file.
 
-![Preview](https://textbook.edu.goit.global/lms-react-woolf-homework/uk/img/hw-01/friend-list.jpg)
+![Preview](./assets/friend-list.jpg)
 
 ##### Description of the `<FriendList>` component
 
