@@ -3,7 +3,7 @@
 It is necessary to create a transaction history component in the personal
 account of the Internet bank.
 
-[![Preview](https://textbook.edu.goit.global/lms-react-woolf-homework/uk/img/hw-01/transactions.jpg)
+![Preview](https://textbook.edu.goit.global/lms-react-woolf-homework/uk/img/hw-01/transactions.jpg)
 
 The data for the list is available in JSON format in the
 [`transactions.json`](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fgoitacademy%2Freact-homework%2Fblob%2Fmaster%2Fhomework-01%2Ftransaction-history%2Ftransactions.json)
@@ -49,7 +49,7 @@ shows the markup of two transactions.
 
 ##### Example of use
 
-```jsx
+```js
 import transactions from 'path/to/transactions.json';
 
 <TransactionHistory items={transactions} />;

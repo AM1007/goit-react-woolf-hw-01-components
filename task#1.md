@@ -5,7 +5,7 @@ information about a user on a social network. The user data is stored in the
 [`user.json`](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fgoitacademy%2Freact-homework%2Fblob%2Fmaster%2Fhomework-01%2Fsocial-profile%2Fuser.json)
 file.
 
-[![Preview](https://textbook.edu.goit.global/lms-react-woolf-homework/uk/img/hw-01/social-profile.png)
+![Preview](https://textbook.edu.goit.global/lms-react-woolf-homework/uk/img/hw-01/social-profile.png)
 
 ##### Description of the `<Profile>` component
 
